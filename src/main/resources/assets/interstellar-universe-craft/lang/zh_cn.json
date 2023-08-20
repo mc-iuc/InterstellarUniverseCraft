@@ -1,0 +1,18 @@
+{
+  "item.interstellar-universe-craft.tungsten_ingot": "钨锭",
+  "item.interstellar-universe-craft.raw_tungsten": "粗钨",
+  "item.interstellar-universe-craft.tungsten_nugget": "钨粒",
+  "item.interstellar-universe-craft.aluminium_ingot": "铝锭",
+  "item.interstellar-universe-craft.raw_aluminium": "粗铝",
+  "item.interstellar-universe-craft.aluminium_nugget": "铝粒",
+  "item.interstellar-universe-craft.element": "元素",
+
+  "block.interstellar-universe-craft.tungsten_block": "钨块",
+  "block.interstellar-universe-craft.tungsten_ore": "钨矿石",
+  "block.interstellar-universe-craft.deepslate_tungsten_ore": "深层钨矿石",
+  "block.interstellar-universe-craft.aluminium_block": "铝块",
+  "block.interstellar-universe-craft.aluminium_ore": "铝矿石",
+  "block.interstellar-universe-craft.deepslate_aluminium_ore": "深层铝矿石",
+
+  "itemgroup.interstellar-universe-craft.element": "星际宇宙|元素"
+}

@@ -1,0 +1,18 @@
+{
+  "item.interstellar-universe-craft.tungsten_ingot": "Tungsten Ingot",
+  "item.interstellar-universe-craft.raw_tungsten": "Raw Tungsten",
+  "item.interstellar-universe-craft.tungsten_nugget": "Tungsten Nugget",
+  "item.interstellar-universe-craft.aluminium_ingot": "Aluminium Ingot",
+  "item.interstellar-universe-craft.raw_aluminium": "Raw Aluminium",
+  "item.interstellar-universe-craft.aluminium_nugget": "Aluminium Nugget",
+  "item.interstellar-universe-craft.element": "Element",
+
+  "block.interstellar-universe-craft.tungsten_block": "Block of Tungsten",
+  "block.interstellar-universe-craft.tungsten_ore": "Tungsten Ore",
+  "block.interstellar-universe-craft.deepslate_tungsten_ore": "Deepslate Tungsten Ore",
+  "block.interstellar-universe-craft.aluminium_block": "Block of Aluminium",
+  "block.interstellar-universe-craft.aluminium_ore": "Aluminium Ore",
+  "block.interstellar-universe-craft.deepslate_aluminium_ore": "Deepslate Aluminium Ore",
+
+  "itemgroup.interstellar-universe-craft.element": "Element"
+}
