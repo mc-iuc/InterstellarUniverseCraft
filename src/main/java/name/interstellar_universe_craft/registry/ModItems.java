@@ -29,13 +29,13 @@ public class ModItems {
             new Item(new FabricItemSettings()),
             ModItemGroup.ELEMENT);
     public static final Item ALUMINIUM_NUGGET = registerItem("aluminium_nugget",
-            new Item(new FabricItemSettings()),
+            new Item(new FabricItemSettings ()),
             ModItemGroup.ELEMENT);
     //铌
     public static final Item NIOBIUM_INGOT = registerItem("niobium_ingot",
             new Item(new FabricItemSettings()),
             ModItemGroup.ELEMENT);
-    public static final Item ROW_NIOBIUM = registerItem("row_niobium",
+    public static final Item ROW_NIOBIUM = registerItem("raw_niobium",
             new Item(new FabricItemSettings()),
             ModItemGroup.ELEMENT);
     public static final Item NIOBIUM_NUGGET = registerItem("niobium_nugget",

@@ -35,7 +35,6 @@ public class ModBlocks {
     public static final Block DEEPSLATE_ALUMINIUM_ORE = registerBlock("deepslate_aluminium_ore",
             new ExperienceDroppingBlock(FabricBlockSettings.of(Material.STONE).strength(10.0f,1000.0f).requiresTool(), UniformIntProvider.create(3,5)),
             ModItemGroup.ELEMENT);
-    //以上为方块注册
     public static Block registerBlock(String name, Block block, ItemGroup... itemGroups){
         ModItems.registerItem(name, new BlockItem(block, new FabricItemSettings()), itemGroups);
         return Registry.register(Registries.BLOCK, new Identifier(InterstellarUniverseCraft.MOD_ID, name), block);
