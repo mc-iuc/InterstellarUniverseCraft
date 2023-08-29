@@ -31,6 +31,16 @@ public class ModItems {
     public static final Item ALUMINIUM_NUGGET = registerItem("aluminium_nugget",
             new Item(new FabricItemSettings()),
             ModItemGroup.ELEMENT);
+    //铌
+    public static final Item NIOBIUM_INGOT = registerItem("niobium_ingot",
+            new Item(new FabricItemSettings()),
+            ModItemGroup.ELEMENT);
+    public static final Item ROW_NIOBIUM = registerItem("row_niobium",
+            new Item(new FabricItemSettings()),
+            ModItemGroup.ELEMENT);
+    public static final Item NIOBIUM_NUGGET = registerItem("niobium_nugget",
+            new Item(new FabricItemSettings()),
+            ModItemGroup.ELEMENT);
     //物品栏
     public static final Item ELEMENT = registerItem("element",
             new Item(new FabricItemSettings()));
