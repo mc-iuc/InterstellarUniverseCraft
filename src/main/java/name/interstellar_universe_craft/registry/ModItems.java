@@ -21,6 +21,9 @@ public class ModItems {
     public static final Item TUNGSTEN_NUGGET = registerItem("tungsten_nugget",
             new Item(new FabricItemSettings()),
             ModItemGroup.ELEMENT);
+    public static final Item TUNGSTEN_WIRE = registerItem("tungsten_wire",
+            new Item(new FabricItemSettings()),
+            ModItemGroup.ELEMENT);
     //铝
     public static final Item ALUMINIUM_INGOT = registerItem("aluminium_ingot",
             new Item(new FabricItemSettings()),
@@ -39,6 +42,10 @@ public class ModItems {
             new Item(new FabricItemSettings()),
             ModItemGroup.ELEMENT);
     public static final Item NIOBIUM_NUGGET = registerItem("niobium_nugget",
+            new Item(new FabricItemSettings()),
+            ModItemGroup.ELEMENT);
+    //元素应用
+    public static final Item TAMP_BULB = registerItem("lamp_bulb",
             new Item(new FabricItemSettings()),
             ModItemGroup.ELEMENT);
     //物品栏

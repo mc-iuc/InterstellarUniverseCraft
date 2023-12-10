@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "W": {
+      "item": "interstellar-universe-craft:tungsten_wire"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GWG",
+    "GIG"
+  ],
+  "result": {
+    "item": "interstellar-universe-craft:lamp_bulb",
+    "count": 9
+  }
+}
