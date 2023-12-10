@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":{
+    "#": {
+      "item": "interstellar-universe-craft:tungsten_ingot"
+    }
+  },
+  "result": {
+    "item": "interstellar-universe-craft:tungsten_block",
+    "count": 1
+  }
+}

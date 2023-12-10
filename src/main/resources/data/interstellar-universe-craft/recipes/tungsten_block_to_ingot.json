@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "interstellar-universe-craft:tungsten_block"
+    }
+  ],
+  "result": {
+    "item": "interstellar-universe-craft:tungsten_ingot",
+    "count": 9
+  }
+}
