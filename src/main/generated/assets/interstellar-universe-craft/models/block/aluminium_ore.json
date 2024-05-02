@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "interstellar-universe-craft:block/aluminium_ore"
+  }
+}

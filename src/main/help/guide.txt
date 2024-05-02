@@ -1,0 +1,17 @@
+一、编写物品步骤：
+     1.注册物品，位于"ModItems.java"，有"//"注释提醒
+     2.在models/item目录下编写json文件
+     3.在lang目录下en_us.json进行英文翻译，再在zh_cn.json进行中文翻译
+     4.添加材质
+二、编写创造模式物品栏
+     1.完成物品栏图标/一个物品/的注册，见上
+     2.注册物品栏，位于"ModItemGroup.java"，有"//"注释提醒
+     3.在lang目录下en_us.json进行英文翻译，再在zh_cn.json进行中文翻译
+三、编写方块
+     1.注册方块，位于"ModBlocks.java"，有"//"注释提醒，编辑信息
+     2.在"ModItemGroup.java"加入物品栏
+     3.在"ModItemModelGenerator.java"编写信息添加模型
+     4.在"ModLangGenerator"编写英语信息，再在zh_cn.json进行中文翻译
+     5.添加材质
+     6.在tags目录添加标签-方块挖掘
+     7.在loot_table/blocks目录下添加json文件-战利品表-掉落物-网址https://misode.github.io/loot-table/?version=1.19.3

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "interstellar-universe-craft",
+	"version": "${version}",
+	"name": "Interstellar Universe Craft",
+	"description": "Enjoy yourself in the wonderful magical universe!",
+	"authors": [
+		"Minecraft-iuc Team!"
+	],
+	"contact": {
+		"homepage": "https://mc-iuc.mysxl.cn/",
+		"sources": "https://github.com/mc-iuc"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/interstellar-universe-craft/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "name.interstellar_universe_craft.InterstellarUniverseCraft"
+		],
+		"client": [
+			"name.interstellar_universe_craft.InterstellarUniverseCraftClient"
+		],
+		"fabric-datagen": [
+			"name.interstellar_universe_craft.InterstellarUniverseCraftDataGenerator"
+		]
+	},
+	"mixins": [
+		"interstellar-universe-craft.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
