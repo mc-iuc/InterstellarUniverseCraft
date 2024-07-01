@@ -47,6 +47,7 @@ public class ModItemGroups {
 
                         entries.add(ModItems.DUST_OF_LEAF);
                         entries.add(ModItems.DAZZLING_STAR);
+                        entries.add(ModItems.PHANTOM_STAR);
                         entries.add(ModItems.STAR_ENERGY_JAR);
                     }).build());
     public static final ItemGroup INTEGRATION = Registry.register(Registries.ITEM_GROUP,
@@ -58,7 +59,9 @@ public class ModItemGroups {
                         entries.add(ModItems.INTEGRATED_CARD_GEMINI);
                         entries.add(ModItems.INTEGRATED_CARD_SERPENT);
                         entries.add(ModItems.INTEGRATED_CARD_SCORPIO);
+
                         entries.add(ModItems.HOOK_BLADE_WHALE_LANDING);
+                        entries.add(ModItems.TRIPLE_CLAW_KNIFE_BLAZING_DOG);
                     }).build());
 
 

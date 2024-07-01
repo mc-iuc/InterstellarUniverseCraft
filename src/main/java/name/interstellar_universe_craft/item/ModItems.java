@@ -50,6 +50,8 @@ public class ModItems {
     //货币
     public static final Item DAZZLING_STAR = registerItem("dazzling_star",
             new Item(new FabricItemSettings()));
+    public static final Item PHANTOM_STAR = registerItem("phantom-star",
+            new Item(new FabricItemSettings()));
 
     //星能
     public static final Item STAR_ENERGY_JAR = registerItem("star_energy_jar",
@@ -68,6 +70,8 @@ public class ModItems {
     //集成器
     public static final Item HOOK_BLADE_WHALE_LANDING = registerItem("hook_blade_whale_landing",
             new Item(new FabricItemSettings()));
+    public static final TripleClawKnife TRIPLE_CLAW_KNIFE_BLAZING_DOG = (TripleClawKnife) registerItem("triple_claw_knife_blazing_dog",
+            new TripleClawKnife(10, 0.2, 2000, 0.1, 200));
 
     //物品栏
     public static final Item ELEMENT = registerItem("element",

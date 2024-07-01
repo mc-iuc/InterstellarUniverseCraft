@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "interstellar-universe-craft:item/phantom-star"
+  }
+}

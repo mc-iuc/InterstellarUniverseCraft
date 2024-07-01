@@ -2,9 +2,12 @@ package name.interstellar_universe_craft;
 
 //import name.interstellar_universe_craft.recipe.ModRecipes;
 import name.interstellar_universe_craft.block.ModBlocks;
+import name.interstellar_universe_craft.effects.ModEffects;
 import name.interstellar_universe_craft.item.ModItemGroups;
 import name.interstellar_universe_craft.item.ModItems;
 import name.interstellar_universe_craft.villager.ModVillagers;
+import name.interstellar_universe_craft.world.feature.ModConfiguredFeatures;
+import name.interstellar_universe_craft.world.gen.ModWorldGeneration;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -27,8 +30,13 @@ public class InterstellarUniverseCraft implements ModInitializer {
 		ModItemGroups.registerModItemGroup();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModEffects.registerModEffects();
+
 		ModVillagers.registerVillagers();
 		ModVillagers.registerTrades();
+
+		ModWorldGeneration.generateModWorldGen();
+
 		//ModRecipes.registerRecipes();
 	}
 }

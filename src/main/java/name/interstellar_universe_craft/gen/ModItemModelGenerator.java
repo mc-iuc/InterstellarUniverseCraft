@@ -50,6 +50,7 @@ public class ModItemModelGenerator extends FabricModelProvider {
 
         itemModelGenerator.register(ModItems.DUST_OF_LEAF,Models.GENERATED);
         itemModelGenerator.register(ModItems.DAZZLING_STAR,Models.GENERATED);
+        itemModelGenerator.register(ModItems.PHANTOM_STAR,Models.GENERATED);
         itemModelGenerator.register(ModItems.STAR_ENERGY_JAR,Models.GENERATED);
 
         itemModelGenerator.register(ModItems.INTEGRATED_CARD_CARINA,Models.GENERATED);

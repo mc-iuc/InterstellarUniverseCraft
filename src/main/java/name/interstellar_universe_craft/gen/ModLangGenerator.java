@@ -1,6 +1,7 @@
 package name.interstellar_universe_craft.gen;
 
 import name.interstellar_universe_craft.block.ModBlocks;
+import name.interstellar_universe_craft.effects.ModEffects;
 import name.interstellar_universe_craft.item.ModItemGroups;
 import name.interstellar_universe_craft.item.ModItems;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
@@ -48,12 +49,16 @@ public class ModLangGenerator extends FabricLanguageProvider {
         translationBuilder.add(ModBlocks.STAR_STORAGE_TABLE,"Star Storage Table");
 
         translationBuilder.add(ModItems.DAZZLING_STAR,"Dazzling Star");
+        translationBuilder.add(ModItems.PHANTOM_STAR,"Phantom Star");
         translationBuilder.add(ModItems.STAR_ENERGY_JAR,"Star Energy Jar");
 
         translationBuilder.add(ModItems.HOOK_BLADE_WHALE_LANDING,"Hook Blade Whale Landing");
+        translationBuilder.add(ModItems.TRIPLE_CLAW_KNIFE_BLAZING_DOG,"Triple Claw Blazing Dog");
 
         translationBuilder.add(ModItemGroups.GROUPS_TAB_ELEMENT,"Element");
         translationBuilder.add(ModItemGroups.GROUPS_TAB_INTEGRATION,"Integration");
+
+        translationBuilder.add(ModEffects.GOLD_BURST_EFFECT,"Gold Burst Effect");
 
         translationBuilder.add("entity.minecraft.villager.star_hunter","Star Hunter");
     }

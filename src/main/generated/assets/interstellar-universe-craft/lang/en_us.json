@@ -22,13 +22,17 @@
   "item.interstellar-universe-craft.integrated_card_serpent": "Integrated Card Serpent",
   "item.interstellar-universe-craft.integration": "Integration",
   "item.interstellar-universe-craft.lamp_bulb": "Lamp Bulb",
+  "item.interstellar-universe-craft.phantom-star": "Phantom Star",
   "item.interstellar-universe-craft.raw_aluminium": "Raw Aluminium",
   "item.interstellar-universe-craft.raw_silicon": "Raw Silicon",
   "item.interstellar-universe-craft.raw_tungsten": "Raw Tungsten",
   "item.interstellar-universe-craft.star_energy_jar": "Star Energy Jar",
+  "item.interstellar-universe-craft.triple_claw_knife_blazing_dog": "Triple Claw Blazing Dog",
   "item.interstellar-universe-craft.tungsten_ingot": "Tungsten Ingot",
   "item.interstellar-universe-craft.tungsten_nugget": "Tungsten Nugget",
   "item.interstellar-universe-craft.tungsten_wire": "Tungsten Wire",
   "itemgroup.element": "Element",
-  "itemgroup.integration": "Integration"
+  "itemgroup.integration": "Integration",
+  "effect.interstellar-universe-craft.gold_burst_effect": "Gold Burst Effect"
+
 }

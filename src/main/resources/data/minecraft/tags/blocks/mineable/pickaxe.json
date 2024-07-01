@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "interstellar-universe-craft:tungsten_block",
+    "interstellar-universe-craft:tungsten_ore",
+    "interstellar-universe-craft:deepslate_tungsten_ore",
+    "interstellar-universe-craft:aluminium_block",
+    "interstellar-universe-craft:aluminium_ore",
+    "interstellar-universe-craft:deepslate_aluminium_ore",
+    "interstellar-universe-craft:lamp"
+    ]
+}
